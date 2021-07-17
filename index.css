@@ -84,6 +84,7 @@ body{
   }
    .flex{
     flex-direction: column;
+    justify-content: center;
   } 
 }
 @media (max-width: 991px) and (min-width: 767px){
